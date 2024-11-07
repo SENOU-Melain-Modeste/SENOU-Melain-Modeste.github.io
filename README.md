@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+  <meta name="google-site-verification" content="_vQsxVoQ_YKseqy0vjzhB1dE5XGprP5rLTmhBiAH7H0" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Page personnelle de [SENOU Melain Modeste], CV, publications et profil.">
