@@ -4,18 +4,18 @@
   <meta name="google-site-verification" content="_vQsxVoQ_YKseqy0vjzhB1dE5XGprP5rLTmhBiAH7H0" />
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Page personnelle de [SENOU Melain Modeste], CV, publications et profil.">
-  <meta name="keywords" content="Nom, CV, Publications, Profil, Recherche, [Development Economics |EconometricsStatistics|Data Science|Generative IA]">
-  <meta name="author" content="[SENOU Melain Modeste]">
+  <meta name="description" content="Page personnelle de [SENOU Melain Modeste (PhD)], CV, publications et profil.">
+  <meta name="keywords" content=" SENOU Melain Modeste, cv.pdf,SENOU_Melain_M_CV.pdf, Development Economics, Econometrics, Statistics, Data Science, Generative AI">
+  <meta name="author" content=" SENOU Melain Modeste (PhD)">
 </head>
 <body>
   <header>
-    <h1>[SENOU Melain Modeste]</h1>
+    <h1> SENOU Melain Modeste (PhD)</h1>
     <p>Welcome to my web page. Find my CV, profil and publications here</p>
   </header>
 
   <section id="cv">
-    <h2>My CV</h2>
+    <h2> CV</h2>
     <p>Download my  <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
   </section>
 
@@ -25,18 +25,28 @@
   </section>
 
   <section id="publications">
-    <h2>Publications</h2>
+    <h2> Recent Publications</h2>
     <ul>
-      <li><a href="(https://doi.org/10.1111/1467-8268.12623)">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?</a></li>
-      <li><a href="(https://doi.org/10.1080/23322039.2019.1665432)">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?</a></li>
-      <li><a href="(https://doi.org/10.1002/jid.3881)">From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money</a></li>
-      <li><a href="(https://doi.org/10.1016/j.sciaf.2021.e00940)">Access to finance and difference in family farm productivity in Benin: Evidence from small farms</a></li>
-      <li><a href="(https://doi.org/10.1080/23322039.2023.2242662)">Digital financial inclusion and income inequality in WAEMU: What causality for what heterogeneity?</a></li>
-      <li><a href="(https://doi.org/10.1080/19186444.2019.1641393)">Is there a bottleneck for mobile money adoption in WAEMU?</a></li>
-      <li><a href="(https://doi.org/10.1186/s13561-023-00429-8)">Out- Of- Pocket health expenditure and household consumption patterns in Benin: Is there a crowding out effect?</a></li>
-      <li><a href="(https://doi.org/10.1080/15228916.2023.2257556)">Does ICTs Usage Facilitate Access to Market? An Empirical Evidence of Market Gardeners in Benin</a></li>
+      <li><a href="https://doi.org/10.1111/1467-8268.12623">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?(African Development Review)</a></li>
+      <li><a href="https://doi.org/10.1080/23322039.2019.1665432">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?(Cogent Economics and Finance)</a></li>
+      <li><a href="https://doi.org/10.1002/jid.3881">From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money (Journal of International Development)</a></li>
+      <li><a href= "https://doi.org/10.1016/j.sciaf.2021.e00940 "> Access to finance and difference in family farm productivity in Benin: Evidence from small farms (Scientific African)</a></li>
+      <li><a href="https://doi.org/10.1080/23322039.2023.2242662">Digital financial inclusion and income inequality in WAEMU: What causality for what heterogeneity? (Cogent Economics and Finance)</a></li>
+      <li><a href="https://doi.org/10.1080/19186444.2019.1641393">Is there a bottleneck for mobile money adoption in WAEMU? (Transnational Corporation Review)</a></li>
+      <li><a href="https://doi.org/10.1186/s13561-023-00429-8 ">Out- Of- Pocket health expenditure and household consumption patterns in Benin: Is there a crowding out effect? (Health Economics Review)</a></li>
+      <li><a href="https://doi.org/10.1080/15228916.2023.2257556">Does ICTs Usage Facilitate Access to Market? An Empirical Evidence of Market Gardeners in Benin (Journal of African Business)</a></li>
 
   </section>
 </body>
+   <section id="Contacts">
+    <h2>Contacts</h2> 
+    <ul>
+    <p> : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
+    <p> : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
+    <p> : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
+  </footer>
+ </section>
+</body>
 </html>
+
 
