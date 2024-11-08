@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
   <meta name="google-site-verification" content="_vQsxVoQ_YKseqy0vjzhB1dE5XGprP5rLTmhBiAH7H0" />
@@ -45,8 +45,7 @@
     <p> : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
     <p> : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
   </footer>
- </section>
-</body>
-</html>
+
+
 
 
