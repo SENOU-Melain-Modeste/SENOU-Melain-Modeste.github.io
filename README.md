@@ -14,6 +14,12 @@
     <p>Welcome to my web page. Find my CV, profil and publications here</p>
   </header>
 
+  <section id="My repositories">
+    <h2>Repositories</h2> 
+    <ul>
+    <p> : <a href="click here:https://github.com/SENOU-Melain-Modeste/SENOU-Melain-Modeste"> https://github.com/SENOU-Melain-Modeste/SENOU-Melain-Modeste </a></p>
+  </section>
+
   <section id="cv">
     <h2> CV</h2>
     <p>Download my  <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
@@ -44,7 +50,7 @@
     <p> : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
     <p> : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
     <p> : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
-  </footer>
+
 
 
 
